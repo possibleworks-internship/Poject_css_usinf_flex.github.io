@@ -1,0 +1,49 @@
+.ceo {
+  height: 500px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.ceo1 {
+  height: 100%;
+  width: 50%;
+  background-image: url(../img/ceo.jpg);
+  background-size: cover;
+}
+.ceo2 {
+  height: 100%;
+  width: 50%;
+  background-color: #f64c72;
+}
+.ceo21 {
+  font-family: "Mulish";
+  font-style: normal;
+  margin-top: 5%;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+  color: #fff;
+}
+.ceo22 {
+  height: 30%;
+  width: 65%;
+  color: #fff;
+  margin-top: 5%;
+  margin-left: 20%;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 29px;
+  text-align: center;
+}
+.button {
+  height: 40%;
+  width: 40%;
+  margin-top: 15%;
+  color: white;
+  background-color: #f64c72;
+  border: 2px solid #ffffff;
+  border-radius: 4px;
+}
